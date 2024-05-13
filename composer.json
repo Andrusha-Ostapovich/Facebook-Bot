@@ -1,6 +1,6 @@
 {
     "name": "ostapovich/facebook",
-    "type": "composer-plugin",
+    "type": "library",
     "require": {
         "php": "^8.0"
     },
